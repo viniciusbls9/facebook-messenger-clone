@@ -4,6 +4,4 @@
 
 ## :art: Ferramentas utlizadas
 
-<ul>
-    <li>[https://pt-br.reactjs.org/](ReactJS)</li>
-</ul>
+- [React JS](https://pt-br.reactjs.org/)
